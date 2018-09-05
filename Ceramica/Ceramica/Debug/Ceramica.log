@@ -1,0 +1,2 @@
+﻿  Dibujo.cpp
+c:\users\pablo\desktop\ceramica\ceramica\dibujo.cpp(145): fatal error C1010: final de archivo inesperado al buscar la directiva de encabezado precompilado. Compruebe si olvidó agregar '#include "stdafx.h"' al código fuente?
